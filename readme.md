@@ -23,8 +23,9 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
     Coming soon
 
 ## Gerber files
-    [V1](https://github.com/LucaCraft89/macro_4x3_knob/PCB/betterDisplay/production/betterDisplay.zip)
-    - NOTE: PCB has space for oled display that was never implemented, ignore it
+
+[V1](https://github.com/LucaCraft89/macro_4x3_knob/PCB/betterDisplay/production/betterDisplay.zip)
+- NOTE: PCB has space for oled display that was never implemented, ignore it
 
 ## VIAL
 VIAL is supported just flash the layout
