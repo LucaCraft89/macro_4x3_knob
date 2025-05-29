@@ -1,0 +1,8 @@
+#pragma once
+#define VIAL_KEYBOARD_UID {0xCA, 0xAC, 0xC6, 0x1A, 0xA0, 0x3F, 0x02, 0x7C}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
+#define ENCODER_A_PINS { E6 }
+#define ENCODER_B_PINS { B4 }
+#define ENCODER_RESOLUTION 4
+#define ENCODER_DIRECTION_FLIP
