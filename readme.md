@@ -8,14 +8,16 @@ Image Coming soon
 - [Simone Folino](https://github.com/Simone02472) 3D Modeling
 * Hardware Supported: Arduino Pro Micro, Custom PCB
 * Hardware Availability: AliExpress or any mayor online store
+* Status: New improved PCB revision and subsequent 3d Model revision in development
+
 
 Make example for this keyboard (after setting up your build environment):
 ```bash
-    make macro_4x3_knob:default
+make macro_4x3_knob:default
 ```
 Flashing example for this keyboard:
 ```bash
-    make macro_4x3_knob:default:flash
+make macro_4x3_knob:default:flash
 ```
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
@@ -27,13 +29,13 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 ## Gerber files
 
-[V1](https://github.com/LucaCraft89/macro_4x3_knob/PCB/betterDisplay/production/betterDisplay.zip)
+[V1](https://github.com/LucaCraft89/macro_4x3_knob/PCB/Gerber/V1/betterDisplay.zip)
 - NOTE: PCB has space for oled display that was never implemented, ignore it
 
 ## VIAL
 VIAL is supported just flash the layout
 ```bash
-    make macro_4x3_knob:vial:flash
+make macro_4x3_knob:vial:flash
 ```
 
 ## Bootloader
