@@ -29,7 +29,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 ## Gerber files
 
-[V1](https://github.com/LucaCraft89/macro_4x3_knob/PCB/Gerber/V1/betterDisplay.zip)
+[V1](https://github.com/LucaCraft89/macro_4x3_knob/PCB/Gerber/V1/V1.zip)
 - NOTE: PCB has space for oled display that was never implemented, ignore it
 
 ## VIAL
